@@ -1,0 +1,13 @@
+.my-div {
+  background-color: #4FB8FC;
+  padding: 20px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
